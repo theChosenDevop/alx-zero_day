@@ -1,1 +1,5 @@
-git pull
+<<<<<<< HEAD
+git fetch REMOTE-NAME
+=======
+git fetch origin
+>>>>>>> update_script
